@@ -75,15 +75,6 @@ A smart gardening app combining a CNN-based plant disease classifier with live w
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact" />
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🥇 Amazon ML Summer School 2026 — top 2.23% of 134,000+ applicants
