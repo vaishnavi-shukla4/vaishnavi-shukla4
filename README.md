@@ -17,8 +17,7 @@
 - 💻 Full-stack engineer with hands-on experience across **React, FastAPI, and PostgreSQL**
 - 🤖 Focused on **AI-powered applications** — RAG pipelines, LLM integration, semantic search
 - 🧩 700+ problems solved, rated 1600+ on LeetCode
-- 🗂️ Events Coordinator, IEEE Student Branch, MUJ
-- 🎯 Currently prepping for SDE roles at product-based companies
+- 🎯 Currently prepping for SDE roles
 
 ---
 
@@ -37,7 +36,6 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Databases & Infra**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -91,7 +89,6 @@ A smart gardening app combining a CNN-based plant disease classifier with live w
 - 🥇 Amazon ML Summer School 2026 — top 2.23% of 134,000+ applicants
 - 🎓 Dean's List for academic excellence (GPA 9.2+) — awarded thrice
 - 💡 700+ problems solved, 1600+ LeetCode rating
-- 🗂️ Organized 10+ technical events as IEEE Events Coordinator, MUJ
 
 ---
 
