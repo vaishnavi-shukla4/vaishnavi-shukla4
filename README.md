@@ -53,21 +53,21 @@
 
 ### 🌟 Featured Projects
 
-#### 🔹 [JobFit — AI Resume Analysis & Job-Matching Platform](https://github.com/YOUR-USERNAME/jobfit)
+#### 🔹 [JobFit — AI Resume Analysis & Job-Matching Platform](https://github.com/vaishnavi-shukla4/JobFit)
 Full-stack platform for ATS scoring, semantic resume-job matching, and skill-gap analysis.
 `React` `TypeScript` `FastAPI` `PostgreSQL/pgvector` `Redis` `Celery` `Groq`
 - Asynchronous resume processing pipeline with Celery + Redis + spaCy for entity extraction
 - LLM-powered resume rewriting and a two-tiered ATS scoring engine
 - Live job discovery via SerpAPI ranked using pgvector cosine similarity
 
-#### 🔹 [Multi-Document Research Agent](https://github.com/YOUR-USERNAME/multi-doc-research-agent)
+#### 🔹 [Multi-Document Research Agent](https://github.com/vaishnavi-shukla4/multi-document-research-agent)
 A multi-document RAG system for semantic Q&A across PDFs with citation-grounded answers.
 `React` `FastAPI` `Groq (LLaMA 3.3 70B)` `Gemini Embeddings` `pgvector`
 - Sentence-aware chunking pipeline with HNSW-indexed vector retrieval
 - Stateful conversational Q&A with follow-up query rewriting
 - Supports document comparison, contradiction detection, and trend analysis
 
-#### 🔹 [Plantona — Smart Gardening Assistant](https://github.com/YOUR-USERNAME/plantona)
+#### 🔹 [Plantona — Smart Gardening Assistant](https://github.com/varunswami1/alpha4)
 A smart gardening app combining a CNN-based plant disease classifier with live weather data.
 `React (TypeScript)` `Tailwind CSS` `Flask` `TensorFlow` `Open-Meteo API`
 - Built the frontend integrating real-time CNN inference results
